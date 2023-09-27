@@ -1,0 +1,15 @@
+#navbarNavAltMarkup{
+    color: white;
+justify-content: end;
+display: inline;
+}
+
+
+
+
+.nav-link{
+    color: white;
+    justify-content: end;
+    display: inline;
+    margin: 10px;
+}
